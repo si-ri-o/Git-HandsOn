@@ -1,1 +1,1 @@
-git hands ongit status
+git hands oncat new-text.txt
